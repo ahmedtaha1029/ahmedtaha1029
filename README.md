@@ -5,7 +5,7 @@ systems in Python, with a focus on data, search and security.
 
 **Tech:** Python · Django · SQL/PostgreSQL · React · Node.js · Docker · Redis · Celery
 
-📫 [LinkedIn]https://www.linkedin.com/in/ahmed-taha-b-86b524270 · ahmedtahabaitou@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/ahmed-taha-b-86b524270) · ahmedtahabaitou@gmail.com
 
 <!--
 **ahmedtaha1029/ahmedtaha1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
